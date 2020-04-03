@@ -1,2 +1,4 @@
-# automating_boring_stuff
-Automatizando tarefas maçantes do cotidiano usando Python (inspirado no livro "Automate the boring stuff with Python")
+# Automating boring stuff
+ Automating repetitive, but simple, tasks using Python - based on "[Automate the boring stuff with Python](https://g.co/kgs/5k2D27)"
+
+- [get_latim_tags](https://github.com/vitor-mafra/automating_boring_stuff/blob/master/get_tags_latim.ipynb) is a jupyter notebook made for a friend who studies Linguistics. He was manually analysing big (and tagged) latim texts for his Undergraduate thesis. This script helped him by automating his job of getting sentences which followed certain tags order, so he could focus on what really matters: it's analysis
